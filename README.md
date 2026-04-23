@@ -384,7 +384,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## 📧 İletişim
 
-Sorular veya öneriler için iletişime geçin.
+Sorular veya öneriler için e.cankat.sumer@gmail.com adresi ile iletişime geçin.
 
 ---
 
